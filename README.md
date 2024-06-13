@@ -16,7 +16,7 @@
 
 ### 🌈 Featured Projects:
 1. **Oktopus Website Design**: This is the design for a web app, essentially a file manager that integrates files from various accounts, unifying everything into a single interface.
-2. **Running Timer App**: **: When I started running, I needed a specific stopwatch for my intervals, so this app is tailored to my needs(but it might solve others' problems too).
+2. **Running Timer App**: When I started running, I needed a specific stopwatch for my intervals, so this app is tailored to my needs(but it might solve others' problems too).
 3. **Leaf**: A mobile app that I still need to organize and start developing.
 ---
 
