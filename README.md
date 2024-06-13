@@ -21,8 +21,8 @@
 ---
 
 ### 📫 Connect with Me:
-- **GitHub**: [Your GitHub](https://github.com/SoniaNR03)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/sonia-navas-rutete-19ba6a248)
+- [**GitHub**](https://github.com/SoniaNR03)
+- [**LinkedIn**](https://linkedin.com/in/sonia-navas-rutete-19ba6a248)
 
 ---
 
